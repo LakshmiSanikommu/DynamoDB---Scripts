@@ -1,0 +1,164 @@
+{
+  "id": "faa751e0-fd75-4a72-964e-2f75a72191a6",
+  "country": "li",
+  "createdDate": "2021-08-31T13:54:47.652Z",
+  "data": {
+    "header": {
+      "singinButton": {
+        "text": "Existing customer? [Sign in](/account/signin)",
+
+        "alt": "",
+
+        "url": ""
+      },
+
+      "startButton": {
+        "text": "SIGN UP",
+
+        "alt": "",
+
+        "url": "",
+
+        "topLine": "SIGN UP",
+
+        "bottomLine": "and watch your sports your way"
+      },
+
+      "backgroundImage": "https://d1sgwhnao7452x.cloudfront.net/mobile%2F2223_iOS_1500x1125LP_DE_AT_.jpg",
+
+      "backgroundImages": {
+        "arbitrary": "https://d1sgwhnao7452x.cloudfront.net/mobile%2F2223_iOS_1500x1125LP_DE_AT_.jpg"
+      },
+
+      "title": "THE BEST LIVE FOOTBALL\nIN ONE PLACE",
+
+      "signInButton": {
+        "text": "Existing customer? [Sign in](/account/signin)",
+
+        "alt": "",
+
+        "url": ""
+      },
+
+      "exploreButton": {
+        "text": "EXPLORE APP",
+
+        "url": "",
+
+        "alt": ""
+      }
+    },
+
+    "priceSection": {
+      "description": "14,99€ per month after trial, cancel monthly."
+    },
+
+    "sport": {
+      "logos": [
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_bundesliga_20170707.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2FUCL_2021_200x200_alpha.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2FUWCL_2021_200x200.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_laligasantander_ondark_20180831.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2FSerie-A_Clean_92x92.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Fligue1_2020.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Ffacup.jpg"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_europeanqualifiers_20170320.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_nba_20170712.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_nfl_20160805.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_pdc_20160527.png"
+        },
+
+        {
+          "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_UFC_20190115.png"
+        }
+      ],
+
+      "title": "Watch the Bundesliga, UEFA Champions League, US Sports, Tennis, Darts & much more"
+    },
+
+    "devices": {
+      "logos": [
+        {
+          "description": "On your Apple TV. Smart TVs from Android TV, LG, Panasonic, Samsung, Sony and Philips. Amazon Fire TV and Fire TV Stick.",
+
+          "url": "iconfont iconfont-ls_icon_tv",
+
+          "text": "Watch on your TV. Live or Later."
+        },
+
+        {
+          "description": "Download the app for iOS or Android and watch instantly, later or on the go. Available on Smartphone and Tablet. Cast to Smart TV.",
+
+          "url": "iconfont iconfont-ls_icon_mobile",
+
+          "text": "Watch anywhere you are. On the go."
+        },
+
+        {
+          "description": "In Safari, Chrome, Firefox, Edge or Internet Explorer browser.  No download required.",
+
+          "url": "iconfont iconfont-ls_icon_desktop",
+
+          "text": "Watch on any of your computers."
+        },
+
+        {
+          "description": "Watch DAZN instantly with your PlayStation®4, PlayStation®3, Xbox One.",
+
+          "url": "iconfont iconfont-ls_icon_console",
+
+          "text": "Watch right now on your game console."
+        }
+      ],
+
+      "title": "You can watch dazn on your Supported devices.\nWatch on any 2 devices at the same time."
+    },
+
+    "source": "ios/web/de/en",
+
+    "pausedUserPage": {
+      "backgroundImage": "https://d1sgwhnao7452x.cloudfront.net/mobile%2F2223_iOS_1500x1125LP_DE_AT_.jpg"
+    },
+
+    "welcomeBackHeader": {
+      "backgroundImage": "https://d1sgwhnao7452x.cloudfront.net/mobile%2F2223_iOS_1500x1125LP_DE_AT_.jpg"
+    },
+
+    "showPrice": true
+  },
+  "language": "de",
+  "manufacturer": "microsoft",
+  "platform": "xboxone",
+  "updatedDate": "2022-07-21T06:55:12.170Z"
+}

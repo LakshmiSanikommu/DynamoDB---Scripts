@@ -1,0 +1,97 @@
+{
+  "header": {
+    "exploreButton": { "text": "EXPLORE APP", "url": "", "alt": "" },
+    "singinButton": {
+      "text": "[Sign in](/account/signin)",
+      "alt": "",
+      "url": ""
+    },
+    "startButton": {
+      "text": "SIGN UP",
+      "alt": "",
+      "url": "",
+      "topLine": "SIGN UP",
+      "bottomLine": ""
+    },
+    "backgroundImage": "https://d1sgwhnao7452x.cloudfront.net/mobile%2F2223_Android%20(xxhdpi)_1600x1145LP_DE_AT_.jpg",
+    "backgroundImages": {
+      "arbitrary": "https://d1sgwhnao7452x.cloudfront.net/mobile%2F2223_Android%20(xxhdpi)_1600x1145LP_DE_AT_.jpg"
+    },
+    "title": "THE BEST LIVE FOOTBALL\nIN ONE PLACE",
+    "signInButton": {
+      "text": "[Sign in](/account/signin)",
+      "alt": "",
+      "url": ""
+    }
+  },
+  "priceSection": {
+    "description": "14,99€ per month after trial, cancel monthly."
+  },
+  "sport": {
+    "logos": [
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_championsleague_20170731.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_bundesliga_20170707.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_laligasantander_ondark_20180831.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2FSerie-A_Clean_92x92.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Fligue1_2020.png"
+      },
+      { "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Ffacup.jpg" },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_nba_20170712.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_nfl_20160805.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_pdc_20160527.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/mobile%2Flogo_UFC_20190115.png"
+      }
+    ],
+    "title": "Watch the Bundesliga, UEFA Champions League, US Sports, Tennis, Darts & much more"
+  },
+  "devices": {
+    "logos": [
+      {
+        "description": "On your Apple TV. Smart TVs from Android TV, LG, Panasonic, Samsung, Sony and Philips. Amazon Fire TV and Fire TV Stick.",
+        "url": "iconfont iconfont-ls_icon_tv",
+        "text": "Watch on your TV. Live or Later."
+      },
+      {
+        "description": "Download the app for iOS or Android and watch instantly, later or on the go. Available on Smartphone and Tablet. Cast to Smart TV.",
+        "url": "iconfont iconfont-ls_icon_mobile",
+        "text": "Watch anywhere you are. On the go."
+      },
+      {
+        "description": "In Safari, Chrome, Firefox, Edge or Internet Explorer browser.  No download required.",
+        "url": "iconfont iconfont-ls_icon_desktop",
+        "text": "Watch on any of your computers."
+      },
+      {
+        "description": "Watch DAZN instantly with your PlayStation®4, PlayStation®3, Xbox One.",
+        "url": "iconfont iconfont-ls_icon_console",
+        "text": "Watch right now on your game console."
+      }
+    ],
+    "title": "Connect up to 6 Devices. Watch Sport in HD.\nWatch on any 2 devices at the same time."
+  },
+  "exploreButton": { "text": "EXPLORE THE APP" },
+  "source": "android/web/de/en",
+  "pausedUserPage": {
+    "backgroundImage": "https://d1sgwhnao7452x.cloudfront.net/mobile%2F2223_Android%20(xxhdpi)_1600x1145LP_DE_AT_.jpg"
+  },
+  "welcomeBackHeader": {
+    "backgroundImage": "https://d1sgwhnao7452x.cloudfront.net/mobile%2F2223_Android%20(xxhdpi)_1600x1145LP_DE_AT_.jpg"
+  },
+  "showPrice": true
+}

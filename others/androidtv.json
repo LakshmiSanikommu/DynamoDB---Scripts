@@ -1,0 +1,56 @@
+{
+  "header": {
+    "singinButton": { "url": "", "alt": "", "text": "SIGN IN" },
+    "startButton": { "url": "", "alt": "", "text": "SIGN UP" },
+    "backgroundImage": "https://d1sgwhnao7452x.cloudfront.net/tv%2F2223_Telekom%20OnBoxG1_G6_1280x720.jpg",
+    "backgroundImages": {
+      "hd": "https://d1sgwhnao7452x.cloudfront.net/tv%2F2223_Telekom%20OnBoxG1_G6_1280x720.jpg",
+      "fullHd": "https://d1sgwhnao7452x.cloudfront.net/tv%2F2223_Telekom%20OnBoxG1_G6_1920x1080.jpg"
+    },
+    "signInButton": { "text": "SIGN IN", "url": "" },
+    "exclusiveOfferText": "Disclaimer: Extent of available content subject to suspensions or cancelations by applicable authorities/rightsholders.",
+    "title": "YOUR SPORTS LIVE & ON DEMAND\nWHEREVER YOU WANT",
+    "monthlyOfferTitle": "",
+    "monthlyOfferTagline": "",
+    "monthlyOfferRibbon": "",
+    "monthlyOfferText": "",
+    "monthlyOfferBullets": [],
+    "annualOfferRibbon": "",
+    "annualOfferTagline": "",
+    "annualOfferTitle": "",
+    "annualOfferText": "",
+    "annualOfferBullets": []
+  },
+  "sport": {
+    "logos": [
+      { "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2FBundesliga_1.png" },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2FUCL_2021_200x200_alpha.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2FUWCL_2021_200x200.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2FLaLigaSantander_V2.png"
+      },
+      { "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2FSerieA_68px.jpg" },
+      { "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2FCarabaoCup.png" },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2Flogo_Euroqualifier_310719.png"
+      },
+      {
+        "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2Flogo_nba_20160527.png"
+      },
+      { "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2FNFL.png" },
+      { "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2FPDC.png" },
+      { "url": "https://d1sgwhnao7452x.cloudfront.net/tv%2FUFC.png" }
+    ]
+  },
+  "pausedUserPage": {
+    "backgroundImage": "https://d1sgwhnao7452x.cloudfront.net/tv%2F2223_Telekom%20OnBoxG1_G6_1280x720.jpg"
+  },
+  "welcomeBackHeader": {
+    "backgroundImage": "https://d1sgwhnao7452x.cloudfront.net/tv%2F2223_Telekom%20OnBoxG1_G6_1280x720.jpg"
+  },
+  "showPrice": true
+}
